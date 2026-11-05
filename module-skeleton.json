@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-controlling-dart-mobile",
+  "capabilityKey": "planned:sap:controlling",
+  "presentation": "dart-mobile",
+  "package": "module_sap_controlling_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/sap/nextjs/controlling.md",
+  "presentationPlan": "projects/sap/features/controlling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
